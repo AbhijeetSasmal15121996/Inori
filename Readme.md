@@ -1,4 +1,3 @@
 # Inori
 ## Personal Assistant
-* Voice Recognition
-* Face Recognition
+Project Under Construction
